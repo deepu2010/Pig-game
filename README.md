@@ -15,8 +15,7 @@ I have given two dices to my players. The dice values will be dispalyed on the s
 1. ### Javascript ES6
 2. ### HTML5
 3. ### CSS3
-4. ### Implemented Model-View-Controller(MVC) pattern for designing this architecture
-5. ### Built this project based on MVC architecture.
+4. ### Object Oriented Programming
 
 # Screenshots of my Pig Game Project:
 ## 1. Screenshot displaying the winner!
