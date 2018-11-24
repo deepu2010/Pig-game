@@ -1,6 +1,5 @@
 # Pig-game
 
-# Description:
 Pig game is a traditional chinese game played using dices. Player who reaches the target score first, wins! 
 
 I have given two dices to my players. The dice values will be dispalyed on the screen. 
